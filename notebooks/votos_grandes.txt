@@ -1,0 +1,8 @@
+CandidatoA,Departamento1,150
+CandidatoB,Departamento1,200
+CandidatoA,Departamento2,300
+CandidatoB,Departamento2,250
+CandidatoA,Departamento3,180
+CandidatoB,Departamento3,220
+CandidatoA,Departamento4,270
+CandidatoB,Departamento4,190
