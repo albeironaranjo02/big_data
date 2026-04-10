@@ -1,1 +1,1 @@
-En computacion distribuida solo se transmiten operaciones asociativas y conmutativas. 
+En computacion distribuida solo se transmiten operaciones asociativas y conmutativas. terminado
